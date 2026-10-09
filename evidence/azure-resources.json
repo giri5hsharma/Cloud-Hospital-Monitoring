@@ -1,0 +1,82 @@
+[
+  {
+    "location": "centralindia",
+    "name": "smartroomgs2517",
+    "type": "Microsoft.Storage/storageAccounts"
+  },
+  {
+    "location": "centralindia",
+    "name": "smart-hospital-key",
+    "type": "Microsoft.Compute/sshPublicKeys"
+  },
+  {
+    "location": "centralindia",
+    "name": "vnet-centralindia-1",
+    "type": "Microsoft.Network/virtualNetworks"
+  },
+  {
+    "location": "centralindia",
+    "name": "hospital-room-vm-nsg",
+    "type": "Microsoft.Network/networkSecurityGroups"
+  },
+  {
+    "location": "centralindia",
+    "name": "hospital-room-vm-ip",
+    "type": "Microsoft.Network/publicIPAddresses"
+  },
+  {
+    "location": "centralindia",
+    "name": "hospital-room-vm638",
+    "type": "Microsoft.Network/networkInterfaces"
+  },
+  {
+    "location": "centralindia",
+    "name": "hospital-room-vm",
+    "type": "Microsoft.Compute/virtualMachines"
+  },
+  {
+    "location": "centralindia",
+    "name": "hospital-room-vm_disk1_510c254d38cd426cb730591a81d2e4e0",
+    "type": "Microsoft.Compute/disks"
+  },
+  {
+    "location": "centralindia",
+    "name": "smarthospitaliotrgbf75",
+    "type": "Microsoft.Storage/storageAccounts"
+  },
+  {
+    "location": "centralindia",
+    "name": "ASP-SmartHospitalIoTRG-af58",
+    "type": "Microsoft.Web/serverFarms"
+  },
+  {
+    "location": "centralindia",
+    "name": "smartroom-fn-girish2517",
+    "type": "microsoft.insights/components"
+  },
+  {
+    "location": "centralindia",
+    "name": "smartroom-fn-girish2517",
+    "type": "Microsoft.Web/sites"
+  },
+  {
+    "location": "global",
+    "name": "Application Insights Smart Detection",
+    "type": "microsoft.insights/actiongroups"
+  },
+  {
+    "location": "centralindia",
+    "name": "ASP-SmartHospitalIoTRG-8af8",
+    "type": "Microsoft.Web/serverFarms"
+  },
+  {
+    "location": "centralindia",
+    "name": "smartroom-dashboard-girish2517",
+    "type": "Microsoft.Web/sites"
+  },
+  {
+    "location": "centralindia",
+    "name": "shutdown-computevm-hospital-room-vm",
+    "type": "Microsoft.DevTestLab/schedules"
+  }
+]

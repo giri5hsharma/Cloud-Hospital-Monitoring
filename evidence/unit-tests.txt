@@ -1,0 +1,10 @@
+test_critical (test_rules.RulesTest.test_critical) ... ok
+test_invalid (test_rules.RulesTest.test_invalid) ... ok
+test_normal_edges (test_rules.RulesTest.test_normal_edges) ... ok
+test_valid (test_rules.RulesTest.test_valid) ... ok
+test_warning_edges (test_rules.RulesTest.test_warning_edges) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK

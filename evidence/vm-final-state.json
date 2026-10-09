@@ -1,0 +1,13 @@
+[
+  {
+    "code": "ProvisioningState/succeeded",
+    "displayStatus": "Provisioning succeeded",
+    "level": "Info",
+    "time": "2026-10-08T16:31:30.88696+00:00"
+  },
+  {
+    "code": "PowerState/deallocated",
+    "displayStatus": "VM deallocated",
+    "level": "Info"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "productName": "Virtual Machines Basv2 Series Windows",
+    "skuName": "B2ats v2",
+    "meterName": "B2ats v2",
+    "retailPrice": 1.4782,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2023-09-01T00:00:00Z"
+  },
+  {
+    "productName": "Virtual Machines Basv2 Series",
+    "skuName": "B2ats v2 Spot",
+    "meterName": "B2ats v2 Spot",
+    "retailPrice": 0.5313,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2025-09-01T00:00:00Z"
+  },
+  {
+    "productName": "Virtual Machines Basv2 Series Windows",
+    "skuName": "B2ats v2 Low Priority",
+    "meterName": "B2ats v2 Low Priority",
+    "retailPrice": 0.5894,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2023-09-01T00:00:00Z"
+  },
+  {
+    "productName": "Azure App Service Basic Plan - Linux",
+    "skuName": "B1",
+    "meterName": "B1",
+    "retailPrice": 1.7278,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2019-06-01T00:00:00Z"
+  },
+  {
+    "productName": "Basv2 Series Cloud Services",
+    "skuName": "B2ats v2",
+    "meterName": "B2ats v2",
+    "retailPrice": 1.4782,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2023-09-01T00:00:00Z"
+  },
+  {
+    "productName": "Virtual Machines Basv2 Series",
+    "skuName": "B2ats v2",
+    "meterName": "B2ats v2",
+    "retailPrice": 0.5903,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2023-09-01T00:00:00Z"
+  },
+  {
+    "productName": "Virtual Machines Basv2 Series",
+    "skuName": "B2ats v2 Low Priority",
+    "meterName": "B2ats v2 Low Priority",
+    "retailPrice": 0.1181,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2023-09-01T00:00:00Z"
+  },
+  {
+    "productName": "Virtual Machines Basv2 Series Windows",
+    "skuName": "B2ats v2 Spot",
+    "meterName": "B2ats v2 Spot",
+    "retailPrice": 1.3304,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2025-09-01T00:00:00Z"
+  },
+  {
+    "productName": "Azure App Service Basic Plan",
+    "skuName": "B1",
+    "meterName": "B1 App",
+    "retailPrice": 7.9671,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2016-01-25T00:00:00Z"
+  },
+  {
+    "productName": "Basv2 Series Cloud Services",
+    "skuName": "B2ats v2 Low Priority",
+    "meterName": "B2ats v2 Low Priority",
+    "retailPrice": 0.5894,
+    "unitOfMeasure": "1 Hour",
+    "currencyCode": "INR",
+    "effectiveStartDate": "2023-09-01T00:00:00Z"
+  }
+]

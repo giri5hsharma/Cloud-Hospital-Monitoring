@@ -1,0 +1,15 @@
+.private/
+.build/
+node_modules/
+output/
+.DS_Store
+.venv/
+venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+.env
+*.env
+*.pem
+local.settings.json
+*.zip

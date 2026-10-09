@@ -1,0 +1,13 @@
+[
+  "Updating submodules.",
+  "Preparing deployment for commit id 'eefac0b6-1'.",
+  "PreDeployment: context.CleanOutputPath False",
+  "PreDeployment: context.OutputPath /home/site/wwwroot",
+  "Running build. Project type: OneDeploy",
+  "Copying the manifest",
+  "Running deployment command...",
+  "Build completed succesfully.",
+  "Running post deployment command(s)...",
+  "Triggering container recycle for OneDeploy by adding/updating restartTrigger.txt to the site root path",
+  "Deployment successful. deployer = OneDeploy deploymentPath = OneDeploy"
+]
